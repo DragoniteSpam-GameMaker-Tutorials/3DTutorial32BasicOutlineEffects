@@ -70,11 +70,15 @@ vertex_end(vbuffer);
 instance_create_depth(0, 0, 0, Player);
 
 vb_player = load_model("player.d3d");
+vb_player_outline = load_model("player-outline.d3d");
 
 vb_cube = load_model("cube.d3d");
 vb_octagon = load_model("octagon.d3d");
-
 vb_sphere = load_model("sphere.d3d");
+
+vb_cube_outline = load_model("cube-outline.d3d");
+vb_octagon_outline = load_model("octagon-outline.d3d");
+vb_sphere_outline = load_model("sphere-outline.d3d");
 
 vb_one_way_wall = load_model("one-way-wall.d3d");
 
