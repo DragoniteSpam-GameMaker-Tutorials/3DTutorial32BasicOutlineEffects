@@ -76,8 +76,8 @@
     "name": "Default",
     "children": [],
   },
-  "RoomOrder": [
-    {"name":"room0","path":"rooms/room0/room0.yy",},
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -113,9 +113,9 @@
     {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"sphere-outline.d3d","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2.3.0.529",
+    "IDEVersion": "23.1.1.193",
   },
-  "resourceVersion": "1.3",
+  "resourceVersion": "1.4",
   "name": "3D Tutorial 32 - Basic Outline Effects",
   "tags": [],
   "resourceType": "GMProject",
